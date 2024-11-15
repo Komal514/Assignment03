@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GPS_Log>
+	<Position Datetime="15/11/2024 07:41:39">
+		<x>65.8973342</x>
+		<y>72.3452346</y>
+		<SatteliteInfo>
+			<Speed>40</Speed>
+			<NoSatt>7</NoSatt>
+		</SatteliteInfo>
+	</Position>
+	<Image Resolution="1024x800">
+		<Path>https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fdogs%2F&amp;psig=AOvVaw1s8Q8fk6oly2OMr6KEt4A8&amp;ust=1731752447886000&amp;source=images&amp;cd=vfe&amp;opi=89978449&amp;ved=0CBEQjRxqFwoTCLD9q-CO3okDFQAAAAAdAAAAABAE</Path>
+	</Image>
+</GPS_Log>
